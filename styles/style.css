@@ -1,4 +1,4 @@
-.body {
+.body{
     font-family: "Open Sans", sans-serif;
     font-size: 16px;
     font-weight: 400;
@@ -6,16 +6,19 @@
     line-height: 1.375;
 }
 
-.page-header {
+.page-header{
+
 }
-.page-header__nav-link {
+
+    .page-header__nav-link{
     margin: 0 25px;
-    color:#000000;
+    color: #000000;
     font-weight: 600;
     font-size: 18px;
     line-height: 25px;
     text-decoration: none;
-}
+    }
 
-.page-footer {
+.page-footer{
+
 }
